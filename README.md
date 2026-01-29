@@ -20,7 +20,9 @@ php artisan serve
 
 # Реализованная логика
 -LeadController
+
 -CallController (Поскольку этот контроллер содержит много логики, я перенёс часть её в класс CallService)
+
 -ManagerController
 
 # Также я написал тесты для некоторых случаев.
